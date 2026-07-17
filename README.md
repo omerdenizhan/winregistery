@@ -1,5 +1,5 @@
-<p align="center"><img src="logo-main.png" alt="Microsoft Windows Regedit Compilations"></p>
-<h1 align="center">⭐ Microsoft Windows Regedit Compilations ⭐</h1>
+<p align="center"><img src="logo-main.png" alt="Logo"></p>
+<h1 align="center">⭐ Registery Compilations ⭐</h1>
 
 I'm presenting to you the registry compiled files that I created for use on my personal computer.
 
